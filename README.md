@@ -91,3 +91,17 @@ MIT — free to use, modify and ship.
 If `md2html` saved you time, consider supporting my open-source work via
 [爱发电 (afdian)](https://afdian.com/a/Zhiyilang). Every bit funds more
 zero-dependency tools like this one. Thank you! ⭐
+
+<!-- cross-links -->
+
+## 🔗 More zero-dependency tools
+
+All of these are single-file, pure Python-stdlib CLIs — offline, no `pip install`, cross-platform:
+
+- **billfusion** — Bill / CSV merging · <https://github.com/Zhiyilang/billfusion>
+- **lanshare** — LAN file transfer · <https://github.com/Zhiyilang/lanshare>
+- **dupescan** — Duplicate file finder · <https://github.com/Zhiyilang/dupescan>
+- **csvdiff** — CSV / JSON diff · <https://github.com/Zhiyilang/csvdiff>
+- **dirsize** — Directory size analyzer · <https://github.com/Zhiyilang/dirsize>
+
+Full portfolio & docs: <https://zhiyilang.github.io/>
