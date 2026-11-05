@@ -10,7 +10,7 @@
 
 Turn `.md` notes, READMEs and docs into clean, styled HTML in one command — no internet, no dependencies, fully offline.
 
-[![Sponsor](https://img.shields.io/badge/sponsor-afdian-ff69b4)](https://afdian.com/a/Zhiyilang)
+[![Sponsor](https://img.shields.io/badge/sponsor-afdian-ff69b4)](https://afdian.com/a/Zhiyilang074811)
 
 ## Why
 
@@ -95,7 +95,7 @@ MIT — free to use, modify and ship.
 ### 👋 Like this tool?
 
 If `md2html` saved you time, consider supporting my open-source work via
-[爱发电 (afdian)](https://afdian.com/a/Zhiyilang). Every bit funds more
+[爱发电 (afdian)](https://afdian.com/a/Zhiyilang074811). Every bit funds more
 zero-dependency tools like this one. Thank you! ⭐
 
 <!-- cross-links -->
